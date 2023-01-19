@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IndexerProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IndexerProject_jar</output-path>
+    <root id="archive" name="IndexerProject.jar">
+      <element id="module-output" name="IndexerProject" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lucene-core-3.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../commons-lang3-3.12.0/commons-lang3-3.12.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
